@@ -16,5 +16,6 @@ For exercise Shell_Scripting
 *       
 * ### ex2.bash --> write a bash file to get the name of the user and say hello to him/her?
 * page 23/69
-* -
+* to be continued
+* 
 * 
