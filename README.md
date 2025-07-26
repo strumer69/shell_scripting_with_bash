@@ -15,6 +15,6 @@ For exercise Shell_Scripting
 *           chmod u-w filename.bas --> remove write forowner
 *       
 * ### ex2.bash --> write a bash file to get the name of the user and say hello to him/her?
-* 
+* page 23/69
 * -
 * 
