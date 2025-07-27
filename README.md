@@ -20,6 +20,6 @@ For exercise Shell_Scripting
 *   - echo "please enter your name"
 *   - read name
 * we can write one line as below:
--  read -p " please enter your name: " name
+*   - read -p " please enter your name: " name
 * 
 * 
