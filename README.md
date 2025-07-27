@@ -14,12 +14,13 @@ For exercise Shell_Scripting
 *           chmod a-w filename.bas --> remove write for all
 *           chmod u-w filename.bas --> remove write forowner
 *       
-* ### ex2.bash --> write a bash file to get the name of the user and say hello to him/her?
-* page 23/69
+* ### ex2.bash --> write a bash file to get the name of the user and say hello to him/her? page 23/69
 * instead of the following two line of code:
 *   - echo "please enter your name"
 *   - read name
 * we can write one line as below:
 *   - read -p " please enter your name: " name
-* 
-* 
+* #### multiple inputs: page 25/69
+*   - echo "please enter your name and age" name age
+    - echo "hello &name . you are &age years old."
+* #### silent input (password) page 26/69
