@@ -23,4 +23,5 @@ For exercise Shell_Scripting
 * #### multiple inputs: page 25/69
 *   - echo "please enter your name and age" name age
     - echo "hello &name . you are &age years old."
-* #### silent input (password) page 26/69
+* #### silent input (password) page 26/69 --> write an script and ask user to enter password. the pass should be invisble.
+* --> answer: refer to ex3.bash 
