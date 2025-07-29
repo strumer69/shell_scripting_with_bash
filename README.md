@@ -23,5 +23,12 @@ For exercise Shell_Scripting
 * #### multiple inputs: page 25/69
 *   - echo "please enter your name and age" name age
     - echo "hello &name . you are &age years old."
-* #### silent input (password) page 26/69 --> write an script and ask user to enter password. the pass should be invisble.
-* --> answer: refer to ex3.bash 
+* ### ex4.bash --> silent input (password) page 26/69 --> write an script and ask user to enter password. the pass should be invisble.
+* --> answer: refer to ex3.bash
+* ### write a bash file execute the following items:
+* print the name of bash file using ( arfument $0)
+* print the first, second and 3th argument(provided you enter argument while calling your script: for example--> "bash ex4.bash hello bash world")
+* print number of arguments.
+* print all arguments as one string.
+* print all arguments as seperate items.
+* answer --> ex4.bash
