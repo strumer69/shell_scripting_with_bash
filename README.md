@@ -34,3 +34,4 @@ For exercise Shell_Scripting
 * answer --> ex4.bash
 * ### ex5.bash --> write a bash file  that after calling it will say Hello to the user. if no argument is entered it will say (hello guest).
 * answer--> ex5.bash
+* ### Note upto  here I got a basic understanding of Bash. I stop this tutorial for a period of time. and will continue later with probably deeper or more profesional tasks.-- regards--30 Jul 2025
